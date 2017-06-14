@@ -18,17 +18,19 @@
 
   <div class="form-group">
     {!! Form::label('role_id', 'Role:') !!}
-    {!! Form::select('role_id', [''=>'choose options'] + $roles, ['class'=>'form-control'])!!}
-  </div>
+    {!! Form::select('role_id', [''=>'choose options'] + $roles, null, ['class'=>'form-control'])!!}
+
+
 
   <div class="form-group">
     {!! Form::label('is_active', 'Status:') !!}
     {!! Form::select('is_active', array(1 => 'Active', 0 => 'Not Active'), 0, ['class'=>'form-control'])!!}
   </div>
 
+
   <div class="form-group">
-    {!! Form::label('file', 'Photo:') !!}
-    {!! Form::file('file', null, ['class'=>'form-control']) !!}
+    {!! Form::label('photo_id', 'Photo:') !!}
+    {!! Form::file('photo_id', null, ['class'=>'form-control']) !!}
   </div>
 
 
@@ -36,6 +38,7 @@
     {!! Form::label('password', 'Password:') !!}
     {!! Form::password('password', ['class'=>'form-control'])!!}
   </div>
+
 
   <div class="form-group">
   {!! Form::submit('Create User', ['class'=>'btn btn-primary']) !!}
