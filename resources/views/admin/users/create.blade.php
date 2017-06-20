@@ -4,7 +4,7 @@
 @section('content')
 
   <h1>Create users</h1>
-  {!! Form::open(['method'=>'POST', 'action' => 'AdminUsersController@store', 'files'=>'true']) !!}
+  {!! Form::open(['method'=>'post', 'action' =>'AdminUsersController@store', 'files'=>'true']) !!}
 
   <div class="form-group">
   {!! Form::label('name', 'Name:') !!}
@@ -18,8 +18,8 @@
 
   <div class="form-group">
     {!! Form::label('role_id', 'Role:') !!}
-    {!! Form::select('role_id', [''=>'choose options'] + $roles, null, ['class'=>'form-control'])!!}
-
+    {!! Form::select('role_id', [''=>'Choose Options'] + $roles, null, ['class'=>'form-control'])!!}
+  </div>
 
 
   <div class="form-group">
