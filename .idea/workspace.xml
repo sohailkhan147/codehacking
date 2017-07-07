@@ -28,8 +28,13 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="221">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+=======
+            <state relative-caret-position="255">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#7#392#0#PHP" expanded="true" />
               </folding>
@@ -232,8 +237,18 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< Updated upstream
       <pane id="Scope" />
       <pane id="Scratches" />
+=======
+<<<<<<< Updated upstream
+      <pane id="Scratches" />
+      <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,6 +391,7 @@
       <workItem from="1497389136403" duration="896000" />
       <workItem from="1497391568456" duration="854000" />
       <workItem from="1497474675172" duration="607000" />
+<<<<<<< Updated upstream
       <workItem from="1497477396978" duration="1155000" />
       <workItem from="1497519133070" duration="1822000" />
       <workItem from="1497520991582" duration="1913000" />
@@ -400,19 +416,105 @@
       <workItem from="1497985570048" duration="224000" />
       <workItem from="1499430438195" duration="114000" />
       <workItem from="1499430697352" duration="37000" />
+<<<<<<< Updated upstream
       <workItem from="1499434057656" duration="56000" />
+=======
+=======
+      <workItem from="1497477396978" duration="57000" />
+      <workItem from="1498087386790" duration="838000" />
+      <workItem from="1498212004349" duration="1709000" />
+      <workItem from="1498213745730" duration="1966000" />
+      <workItem from="1498215742714" duration="1829000" />
+      <workItem from="1498217693771" duration="1825000" />
+      <workItem from="1498219567185" duration="1347000" />
+      <workItem from="1498224766755" duration="1982000" />
+      <workItem from="1498226867481" duration="1038000" />
+      <workItem from="1498297702649" duration="1209000" />
+      <workItem from="1498300808710" duration="1785000" />
+      <workItem from="1498302862977" duration="1805000" />
+      <workItem from="1498316718817" duration="2138000" />
+      <workItem from="1498326639717" duration="1535000" />
+      <workItem from="1498374882328" duration="1817000" />
+      <workItem from="1498376792629" duration="1878000" />
+      <workItem from="1498381886899" duration="1318000" />
+      <workItem from="1498384028838" duration="902000" />
+      <workItem from="1498395926386" duration="2240000" />
+      <workItem from="1498403630202" duration="1839000" />
+      <workItem from="1498405509451" duration="1432000" />
+      <workItem from="1498544573047" duration="1694000" />
+      <workItem from="1498546299801" duration="1576000" />
+      <workItem from="1498549074612" duration="1954000" />
+      <workItem from="1498551100245" duration="1261000" />
+      <workItem from="1498553524508" duration="1723000" />
+      <workItem from="1498555404990" duration="944000" />
+      <workItem from="1498557301872" duration="1262000" />
+      <workItem from="1498722103713" duration="1479000" />
+      <workItem from="1498723958994" duration="893000" />
+      <workItem from="1498728659727" duration="1104000" />
+      <workItem from="1498735226520" duration="1793000" />
+      <workItem from="1498737624988" duration="1809000" />
+      <workItem from="1498740549888" duration="1928000" />
+      <workItem from="1498742514795" duration="1414000" />
+      <workItem from="1498744437142" duration="2494000" />
+      <workItem from="1498752219297" duration="766000" />
+      <workItem from="1498756030963" duration="1055000" />
+      <workItem from="1498763035361" duration="764000" />
+      <workItem from="1498818259478" duration="1304000" />
+      <workItem from="1498820103968" duration="368000" />
+      <workItem from="1498945732203" duration="108000" />
+      <workItem from="1498974952972" duration="1228000" />
+      <workItem from="1498977169512" duration="914000" />
+      <workItem from="1498979545344" duration="1053000" />
+      <workItem from="1499072950695" duration="603000" />
+      <workItem from="1499075026330" duration="1661000" />
+      <workItem from="1499076772635" duration="82000" />
+      <workItem from="1499076884153" duration="1816000" />
+      <workItem from="1499079108339" duration="1979000" />
+      <workItem from="1499081139185" duration="1801000" />
+      <workItem from="1499082994628" duration="592000" />
+      <workItem from="1499087706724" duration="1813000" />
+      <workItem from="1499089555462" duration="1846000" />
+      <workItem from="1499246811575" duration="660000" />
+      <workItem from="1499250995440" duration="1862000" />
+      <workItem from="1499252891042" duration="1878000" />
+      <workItem from="1499254831907" duration="1773000" />
+      <workItem from="1499256667290" duration="1305000" />
+      <workItem from="1499323003637" duration="964000" />
+      <workItem from="1499414087052" duration="1777000" />
+      <workItem from="1499419761634" duration="1307000" />
+      <workItem from="1499421573103" duration="840000" />
+      <workItem from="1499423943616" duration="1282000" />
+      <workItem from="1499428750481" duration="1596000" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="109991000" />
+=======
+<<<<<<< Updated upstream
+    <option name="totallyTimeSpent" value="109935000" />
+=======
+    <option name="totallyTimeSpent" value="171604000" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37291983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+<<<<<<< Updated upstream
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36686838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22919819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -802,8 +904,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="221">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+=======
+        <state relative-caret-position="255">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#7#392#0#PHP" expanded="true" />
           </folding>
